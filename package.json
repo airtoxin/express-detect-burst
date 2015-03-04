@@ -1,0 +1,26 @@
+{
+  "name": "express-detect-burst",
+  "version": "0.0.1",
+  "description": "express middleware detecting burst access",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/airtoxin/express-detect-burst.git"
+  },
+  "author": "airtoxin <airtoxin@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.12.2",
+    "sandglass": "^1.0.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "express",
+    "middleware",
+    "burst",
+    "anomaly"
+  ]
+}
