@@ -13,7 +13,6 @@
   "author": "airtoxin <airtoxin@icloud.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.12.2",
     "sandglass": "^1.0.0"
   },
   "devDependencies": {},
